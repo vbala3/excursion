@@ -1,2 +1,2 @@
-# excursion
-Repository for creating an excursion
+# Excursion
+Repository for creating an excursion on Codecademy
